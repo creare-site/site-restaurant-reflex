@@ -1,4 +1,4 @@
-# [Site Restaurant Reflex](https://site-restaurant-reflex.websitemarket.ro/) - Site Prezentare
+# [Site Restaurant Reflex](https://site-restaurant-reflex.websitemarket.ro/)
 
 Site de prezentare **restaurant** un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-Site Prezentare - [Reflex](https://site-restaurant-reflex.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Restaurant Reflex](https://site-restaurant-reflex.websitemarket.ro/) un produs **WebsiteMarket**
